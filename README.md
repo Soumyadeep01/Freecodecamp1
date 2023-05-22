@@ -27,13 +27,9 @@ A basic understanding of HTML and CSS
 A code editor, such as Visual Studio Code or Sublime Text
 A web browser
 
-License
 
 This repository is licensed under the MIT License.
 
-Contributing
-
 I welcome contributions to this repository! If you find any errors or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-Thank you!
 Thank you for taking the time to check out this repository. I hope you enjoy!
